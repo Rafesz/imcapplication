@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">imcapplication</string>
+    <string name="peso">Peso (75 kg)</string>
+    <string name="altura">Altura (1.8m)</string>
+    <string name="botaoCalc">calcular</string>
+    <string name="titulo">Lorem Ipsum</string>
+    <string name="voltar">voltar</string>
+    <string name="github">Clique abaixo para conhecer meu repositório!</string>
+</resources>
